@@ -1,16 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Akash Chohan
 ====================================================================================================================================
 
-Web Developer and Software Developer
+Full Stack Software Developer
 ------------------------------------
 
-I've been creating websites for about 3 years. But from now I am focusing on my skills more on Data structures and algorithms for improving my competititve programming. Seeking to find new oppourtunities in this computer engineering field.
+Passionate about innovation and development, I focus on implementing unique and transformative ideas.
 
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [akashchohan470@gmail.com](mailto:akashchohan470@gmail.com)
-*   🚀  I'm currently working on [Teciasa](http://teciasa)
-*   🧠  I'm learning DSA
-*   🤝  I'm open to collaborating on Websites and Android Dev.
+*   🚀  I'm currently working on [Pendulum]()
+*   🧠  I'm learning Machine Learning
+*   🤝  I'm open to collaborating on Websites and Software Development.
 *   ⚡  My strength is that I never give up.... And my weakness is that I forget to eat if there is any pending work left for me or doing....!### Skills<p align="left">
                                 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
                                 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
