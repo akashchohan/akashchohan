@@ -8,10 +8,10 @@ Passionate about innovation and development, I focus on implementing unique and 
 
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [akashchohan470@gmail.com](mailto:akashchohan470@gmail.com)
-*   🚀  I'm currently working on [Pendulum]()
-*   🧠  I'm learning Machine Learning
-*   🤝  I'm open to collaborating on Websites and Software Development.
-*   ⚡  My strength is that I never give up.... And my weakness is that I forget to eat if there is any pending work left for me or doing....!### Skills<p align="left">
+*   🚀  I'm currently working on [ODMR]()
+*   🧠  I'm learning Quantum Computing
+*   🤝  I'm open to collaborating on Quantum Science
+Skills<p align="left">
                                 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
                                 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
                                 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
