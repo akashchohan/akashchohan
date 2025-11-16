@@ -6,7 +6,7 @@ Researcher (Always In-Depth)
 
 Passionate about innovation and development, I focus on implementing unique and transformative ideas.
 
-*   🌍  I'm based in India
+*   🌍  Guildford, Surrey, England
 *   ✉️  You can contact me at [akashchohan470@gmail.com](mailto:akashchohan470@gmail.com)
 
                     
