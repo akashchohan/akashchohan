@@ -4,6 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Researcher (Always In-Depth)
 ------------------------------------
 
+Edge AI • Embedded Systems • Earth Observation  
+Building low-power AI pipelines for environmental and space applications
+
 Passionate about innovation and development, I focus on implementing unique and transformative ideas.
 
 *   🌍  Guildford, Surrey, England
